@@ -1,0 +1,18 @@
+/* Basic global styles */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #fefefe;
+  color: #333;
+}
+
+h1, h2 {
+  color: #222;
+  text-align: center;
+}
+
+.container {
+  max-width: 900px;
+  margin: 20px auto;
+  padding: 10px;
+}
