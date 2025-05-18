@@ -1,11 +1,11 @@
 import { Routes, Route } from 'react-router-dom';
-import HomePage from './pages/HomePage';
-import LoginPage from './pages/LoginPage';
-import RegisterPage from './pages/RegisterPage';
-import Navbar from './components/Navbar';
-import UploadMemePage from "./pages/UploadMemePage";
-import ProtectedRoute from './components/ProtectedRoute';
-import CreateMemePage from './pages/CreateMemePage';
+import HomePage from './pages/HomePage.jsx';
+import LoginPage from './pages/LoginPage.jsx';
+import RegisterPage from './pages/RegisterPage.jsx';
+import Navbar from './components/Navbar.jsx';
+import UploadMemePage from "./pages/UploadMemePage.jsx";
+import ProtectedRoute from './components/ProtectedRoute.jsx';
+import CreateMemePage from './pages/CreateMemePage.jsx';
 
 
 function App() {
